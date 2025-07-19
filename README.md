@@ -9,6 +9,7 @@ npm install add-name-affixes
 
 ## Usage
 
+```ts
 import { addNameAffixes } from "add-name-affixes";
 
 // Add prefix and suffix to a POSIX path
@@ -33,6 +34,7 @@ console.log(
 // If no prefix or suffix provided, input is returned as-is
 console.log(addNameAffixes("/foo/bar/file.txt"));
 // Output: /foo/bar/file.txt
+```
 
 ## API
 
