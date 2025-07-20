@@ -1,6 +1,6 @@
 {
   "name": "add-name-affixes",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Add prefix and suffix to the basename of file paths or URLs, zero dependencies.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -10,6 +10,7 @@
   },
   "keywords": ["filename", "prefix", "suffix", "basename", "path", "url", "utility", "no-deps"],
   "author": "lineCode",
+  "repository": "github:lineCode/add-name-affixes",
   "license": "MIT",
   "devDependencies": {
     "typescript": "^5.1.3",
